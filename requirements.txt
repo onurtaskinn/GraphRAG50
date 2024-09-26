@@ -1,0 +1,7 @@
+graphrag
+streamlit
+altair<5
+yfiles_jupyter_graphs
+ipywidgets
+openpyxl
+ipykernel
